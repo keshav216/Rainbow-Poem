@@ -1,6 +1,7 @@
 There appeared a rainbow after the rain
 
-violet indigo
+violet 
+indigo
 blue
 green
 yellow
